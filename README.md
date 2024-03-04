@@ -1,4 +1,4 @@
-# SalesManagementSystem
+# Sales Management System
 
 This project is implemented by the undergraduate students: -Vasileios Ioannis Bouzampalidis -Ioannis Fournaris
 For the Software Development course MYE004 of the Undergraduate Program in Computer Science And Engineering course of the University of Ioannina.
