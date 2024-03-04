@@ -1,0 +1,10 @@
+Name: Bill
+AFM: 987654321
+
+
+Total Sales: 200.0
+Trousers Sales: 2.0
+Skirts Sales: 0.0
+Shirts Sales: 3.0
+Coats Sales: 1.0
+Commission: 0.0
